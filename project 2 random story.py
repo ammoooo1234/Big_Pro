@@ -12,4 +12,4 @@ work =[item for item in input("Enter the list items : ").split()] #[' searching 
 print(random.choice(Sentence_starter)+random.choice(character)+
 	random.choice(time)+random.choice(story_plot) +
 	random.choice(place)+random.choice(second_character)+
-	random.choice(age)+random.choice(work)+random.choice(lst2))
+	random.choice(age)+random.choice(work))
