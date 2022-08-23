@@ -1,7 +1,6 @@
 import random
 Sentence_starter =[item for item in input("Enter the list items : ").split()] #['About 100 years ago', ' In the 20 BC', 'Once upon a time']
-character =[item for item in input("Enter the list items : ").split()] #[' there lived a king.',' there was a man named Jack.',
-			' there lived a farmer.']
+character =[item for item in input("Enter the list items : ").split()] #[' there lived a king.',' there was a man named Jack.',' there lived a farmer.']
 time =[item for item in input("Enter the list items : ").split()] #[' One day', ' One full-moon night']
 story_plot =[item for item in input("Enter the list items : ").split()] #[' he was passing by',' he was going for a picnic to ']
 place =[item for item in input("Enter the list items : ").split()] #[' the mountains', ' the garden']
